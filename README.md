@@ -5,12 +5,12 @@
 ## 3 - Configurar os dados de conexão no arquivo .env (fazer uma cópia do arquivo .env.example para facilitar) na raiz do projeto
 Preencher as seguintes variáveis com os dados configurados na sua máquina:
 
-DB_CONNECTION=mysql
-DB_HOST=localhost
-DB_PORT=3306
-DB_DATABASE=p21
-DB_USERNAME=root
-DB_PASSWORD=123456
+#### DB_CONNECTION=mysql
+#### DB_HOST=localhost
+#### DB_PORT=3306
+#### DB_DATABASE=p21
+#### DB_USERNAME=root
+#### DB_PASSWORD=123456
 
 ## 4 - Pelo terminal, entrar na pasta do projeto e rodar o comando: composer install
 ## 5 - Pelo terminal, entrar na pasta do projeto e rodar o comando: npm install
