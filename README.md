@@ -1,6 +1,6 @@
 1 - Instalar PHP, Composer, MySQL, Node.js e NPM
 2 - Criar banco de dados mySql
-3 - Configurar os dados de conexão no arquivo .env na raiz do projeto
+3 - Configurar os dados de conexão no arquivo .env (fazer uma cópia do arquivo .env.example para facilitar) na raiz do projeto
 Preencher as seguintes variáveis com os dados configurados na sua máquina:
 
 DB_CONNECTION=mysql
